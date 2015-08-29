@@ -1,7 +1,7 @@
 # CommandHelper-versions
 CommandHelper unoffical download
 
-download at http://github.com/itstake/CommandHelper/versions/releases
+download at http://github.com/itstake/CommandHelper-versions/releases
 
 CommandHelper 의 비공식 다운로드 입니다.
 
